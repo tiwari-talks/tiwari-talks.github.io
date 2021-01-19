@@ -39,12 +39,6 @@ module.exports = {
               label: 'Twitter',
               href: 'https://twitter.com',
             },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            
             {
               label: 'Instagram',
               href: 'https://www.instagram.com/venomish05/',
@@ -61,6 +55,8 @@ module.exports = {
       {
         docs: false,
         blog: {
+          blogTitle: 'Tiwari Talks',
+          blogDescription: 'Tiwari Talks blog!',
           path: './blog',
           routeBasePath: '/',
         },
