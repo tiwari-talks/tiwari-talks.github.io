@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Tiwari Talks',
   tagline: 'Tiwari Talks',
-  url: 'anish.netlify.app',
+  url: 'https://tiwari-talks.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
