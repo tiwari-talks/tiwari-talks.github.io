@@ -44,10 +44,7 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
+            
             {
               label: 'Instagram',
               href: 'https://www.instagram.com/venomish05/',
