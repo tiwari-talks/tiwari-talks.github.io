@@ -37,7 +37,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: '',
+              href: 'https://twitter.com',
             },
           ],
         },
