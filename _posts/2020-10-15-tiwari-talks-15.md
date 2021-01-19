@@ -5,7 +5,7 @@ subtitle: What is love (Pretending my views how I fell into it)
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [first-blog, test]
+tags: [tiwari-talks, sharayri. writer, thoughts, story]
 ---
 
 Basically love is  a nostalgia where your (my) happiness is when u are happy when u laugh at my lame jokes for no reason when u become childish , when u are not self obsessed when u smile with a dimple showing ur battisi 😂 when u don't give a damn fuck to what are bitching about u 

@@ -5,7 +5,7 @@ subtitle: Is it really easier to make people cry than make them happy??
 cover-img: 
 thumbnail-img: 
 share-img: 
-tags: [first-blog, test]
+tags: [tiwari-talks, sharayri. writer, thoughts, story]
 ---
 
 ‌In my perspective it is easier to make people sad than to make happy coz you can abuse someone
