@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Tiwari Talks',
-  tagline: '',
-  url: '',
+  tagline: 'Tiwari Talks',
+  url: 'anish.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,7 +55,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Anish Tiwari`,
     },
   },
   presets: [
