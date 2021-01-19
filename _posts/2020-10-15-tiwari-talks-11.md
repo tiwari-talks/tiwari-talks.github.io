@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiwari Talks 11
-subtitle: Asli Pyaar
+subtitle: The Person
 cover-img: 
 thumbnail-img: 
 share-img: 

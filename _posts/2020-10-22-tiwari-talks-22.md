@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tiwari Talks 22
-subtitle: The Person
+subtitle:
 cover-img: 
 thumbnail-img: 
 share-img: 
